@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MovieReviewsSpringboot.iml" filepath="$PROJECT_DIR$/.idea/MovieReviewsSpringboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movieReviews/movieReviews.iml" filepath="$PROJECT_DIR$/movieReviews/movieReviews.iml" />
+    </modules>
+  </component>
+</project>
